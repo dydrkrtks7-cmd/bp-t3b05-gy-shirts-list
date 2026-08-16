@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sinjeong-shirts-note.maphoshirts.space/sitemap.xml
+Sitemap: https://sinjeong-shirts-note.maphoshirts.space/sitemap-pages.xml
